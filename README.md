@@ -6,8 +6,13 @@ Sou estudante de Engenharia de Controle e Automação, com formação técnica e
 
 ---
 
-### 💻 Linguagens e Ferramentas 
+### 💻 Linguagens de Programação
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>
 <br/>
+
+---
+
+### 🗃️ Banco de Dados
+<img align="left" alt="MySQL" width="60px" style="padding-right:20px;" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"/>
