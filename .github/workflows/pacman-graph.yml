@@ -1,9 +1,11 @@
 name: Generate Pacman Graph
 
 on:
+  # Isso roda o script todo dia à meia-noite (UTC)
   schedule:
     - cron: '0 0 * * *'
   
+  # Isso permite que você rode o script manualmente pela aba "Actions"
   workflow_dispatch:
 
 jobs:
@@ -13,24 +15,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Generate Pacman Graph (Light)
-        uses: jwenjian/gh-profile-action@v0.1.2
+      - name: Generate Pacman Graphs
+        uses: grdevelop/pacman-contribution-graph-action@v1.2.0
         with:
-          GH_USERNAME: ${{ github.repository_owner }}
-          PACMAN_ENABLED: 'true'
-          OUTPUT_PATH: 'output/pacman-contribution-graph.svg'
-          THEME_NAME: 'github_light'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Generate Pacman Graph (Dark)
-        uses: jwenjian/gh-profile-action@v0.1.2
-        with:
-          GH_USERNAME: ${{ github.repository_owner }}
-          PACMAN_ENABLED: 'true'
-          OUTPUT_PATH: 'output/pacman-contribution-graph-dark.svg'
-          THEME_NAME: 'github_dark'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output_path_light: 'output/pacman-contribution-graph.svg'
+          output_path_dark: 'output/pacman-contribution-graph-dark.svg'
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
