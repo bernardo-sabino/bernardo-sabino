@@ -1,0 +1,39 @@
+name: Generate Pacman Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Generate Pacman Graph (Light)
+        uses: jwenjian/gh-profile-action@v0.1.2
+        with:
+          GH_USERNAME: ${{ github.repository_owner }}
+          PACMAN_ENABLED: 'true'
+          OUTPUT_PATH: 'output/pacman-contribution-graph.svg'
+          THEME_NAME: 'github_light'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate Pacman Graph (Dark)
+        uses: jwenjian/gh-profile-action@v0.1.2
+        with:
+          GH_USERNAME: ${{ github.repository_owner }}
+          PACMAN_ENABLED: 'true'
+          OUTPUT_PATH: 'output/pacman-contribution-graph-dark.svg'
+          THEME_NAME: 'github_dark'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update pacman contribution graphs"
+          file_pattern: output/*.svg
+          repository: .
