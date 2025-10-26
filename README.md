@@ -1,18 +1,63 @@
-# 📚 Bernardo Sabino
+<div align="center">
+  <img height="150" src="https://assets-v2.lottiefiles.com/a/59ea6c8a-117d-11ee-a15a-df64f6c6e90c/tg2PN9KwKk.gif"  />
+</div>
 
-**`Engenharia de Controle e Automação: Ênfase em Visão Computacional`**
+###
 
-Sou estudante de Engenharia de Controle e Automação, com formação técnica em Automação Industrial. Atualmente, estou me aprofundando e investindo na área de Ciência de Dados, com foco em Machine Learning, Processamento de Linguagem Natural (NLP) e tópicos relacionados. Meu portfólio aqui no GitHub reflete isso, reunindo projetos e estudos que buscam relacionar conceitos de automação com soluções orientadas por dados, modelagem preditiva e inteligência artificial. 
+<div align="center">
+  <a href="www.linkedin.com/in/bernardosab" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="contatobernardosabino@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/bernardo_sabxno/#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
----
+###
 
-### 💻 Linguagens de Programação
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917"/>
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>
-<br/>
+<h1 align="center">hey what's up 👋</h1>
 
----
+###
 
-### 🗃️ Banco de Dados
-<img align="left" alt="MySQL" width="60px" style="padding-right:20px;" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"/>
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Control and Automation Engineering student (UFMG, 2nd semester) with a technical course in Industrial Automation (SENAI-MG, 2025). Experience in teaching and technical support as a Microcontroller Circuits and Control Techniques Tutor, where I developed activities with a practical emphasis. Passionate about Machine Learning and Control Systems. My profile aims to bring together the range of learnings I've been developing along this journey, whether in machine learning, robotics, or control systems.<br><br><br>- 📚 I'm currently learning Data Analysis and Computer Vision</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=bernardo-sabino&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bernardo-sabino/bernardo-sabino/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bernardo-sabino/bernardo-sabino/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bernardo-sabino/bernardo-sabino/output/pacman-contribution-graph.svg">
+</picture>
+
+###
