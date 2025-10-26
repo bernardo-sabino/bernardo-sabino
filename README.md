@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://assets-v2.lottiefiles.com/a/59ea6c8a-117d-11ee-a15a-df64f6c6e90c/tg2PN9KwKk.gif"  />
+  <img height="150" src="assets/robot.gif"  />
 </div>
 
 ###
