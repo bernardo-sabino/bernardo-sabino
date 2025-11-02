@@ -1,12 +1,9 @@
-<div align="center">
+<p align="center">
   <picture>
-
     <source media="(prefers-color-scheme: dark)" srcset="assets/robot_dark.gif">
-
     <img alt="Descrição do seu GIF" src="assets/robot.gif">
-      
   </picture>
-</div>
+</p>
 
 ###
 
