@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Control and Automation Engineering student (UFMG, 2nd semester) with a technical course in Industrial Automation (SENAI-MG, 2025). Experience in teaching and technical support as a Microcontroller Circuits and Control Techniques Tutor, where I developed activities with a practical emphasis. Passionate about Machine Learning and Control Systems. My profile aims to bring together the range of learnings I've been developing along this journey, whether in machine learning, robotics, or control systems.<br><br><br>- 📚 I'm currently learning Data Analysis and Computer Vision</p>
+<p align="left">Control and Automation Engineering student (UFMG, 2nd semester) with a technical course in Industrial Automation (SENAI-MG, 2025). Experience in teaching and technical support as a Microcontroller Circuits and Control Techniques Tutor, where I developed activities with a practical emphasis. Passionate about Machine Learning and Control Systems. My profile aims to bring together the range of learnings I've been developing along this journey, whether in machine learning, robotics, or control systems.<br><br>- 📚 I'm currently learning Data Analysis and Computer Vision</p>
 
 ###
 
