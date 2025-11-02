@@ -1,5 +1,11 @@
 <div align="center">
-  <img height="150" src="assets/robot.gif"  />
+  <picture>
+
+    <source media="(prefers-color-scheme: dark)" srcset="assets/robot_dark.gif">
+
+    <img alt="Descrição do seu GIF" src="assets/robot.gif">
+      
+  </picture>
 </div>
 
 ###
